@@ -1,0 +1,12 @@
+int b;
+int foo(int d,int e) {
+int f ;
+void foo(int k){
+return k + 1 ;
+}
+int fff[1] ;
+fff[0] = 1;
+while ( a  1 ){
+a = a + 1 ;
+}
+} $
